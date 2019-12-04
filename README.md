@@ -20,7 +20,7 @@ python chat_api.py
 ```
 Input/Output
 
-| <center>Key<\center> | Input Value | Output Value |
+| Key | Input Value | Output Value |
 |----|-------------|-------------|
 |user_id | 사용자별 고유 식별자(string) | 사용자별 고유 식별자(string) |
 |utterance | 사용자 발화 문장(string) | 시스템 발화 문장(string) |
