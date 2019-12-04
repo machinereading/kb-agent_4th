@@ -13,10 +13,10 @@ class_dict = {'level_1': ['Disease', 'Event', 'Food', 'Place', 'Species', 'Work'
 				'level_3': ['FictionalCharacter', 'Company', 'SportsTeam', 'Artist', 'Athlete', 'Scientist', 'Writer',
 							  'SportsEvent', 'Settlement'],
 				'level_4': ['College', 'University', 'School', 'MusicalArtist', 'Station']}
-start_question_list = ['어느 대학에 관심이 있나요?']
+#start_question_list = ['어느 대학에 관심이 있나요?']
 prior_property_file = 'prior_property.json'
-stop_word = ['끝']
-logout_word = ['로그아웃']
+#stop_word = ['끝']
+#logout_word = ['로그아웃']
 
 def NLG(triple_list, dialogAct):
 	answer_list = []
