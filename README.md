@@ -7,13 +7,12 @@ Then, receiving user's answer, it expands its KB.
 
 ## prerequisite
 * `python 3`
-* `pymysql`
-
 
 ## Set up
 ```
 pip install -r requirements.txt
 ```
+
 ## How to run
 * API ver
 ```
